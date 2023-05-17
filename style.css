@@ -339,7 +339,7 @@ footer svg{
 }
 
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 320px) {
     body{
         
     }
@@ -351,25 +351,25 @@ footer svg{
     }
     #menu{
         width: 40px;
-        left: 310px;
+        left: 260px;
         z-index: 1;
-        top: -1190px;
+        top: -1180px;
         display: inline;
         position: relative;
     }
     #logo{
         font-size: 25px;
-        top: -1200px;
+        top: -1180px;
         left: -65px;
     }
     #arrowDown{
         top: -870px;
-        left: 140px;
+        left: 110px;
     }
     h1{
         text-indent: 45px;
         left: 35px;
-        font-size: 45px;
+        font-size: 35px;
         top: -200px;
     }
     #menu-mobile{
@@ -405,23 +405,23 @@ footer svg{
         top: -466px;
         left: -190px;
         position: relative;
-        width: 202%;
+        width: 350px;
     }
     #a1{
         margin: 0;
     }
     #a2 h2{
-        font-size: 30px;
+        font-size: 26px;
         left: 2px;
         text-align-last: center;
     }
     #a2 p{
-        left: 45px;
+        left: 15px;
         text-align-last: center;
         width: 300px;
     }
     #a2 a{
-        left: 135px;
+        left: 110px;
     }
     #secondImage{
         height: 300px;
@@ -432,12 +432,12 @@ footer svg{
         width: 20px;
     }
     #a4 h2{
-        font-size: 30px;
-        left: -180px;
+        font-size: 27px;
+        left: -170px;
         text-align-last: center;
         z-index: 1;
         top: 220px;
-        width: 350px;
+        width: 340px;
     }
     #a4 p{
         text-indent: 20px;
@@ -448,7 +448,7 @@ footer svg{
         left: -140px;
     }
     #a4 a{
-        left: -50px;
+        left: -47px;
         top: 300px;
         z-index: 1;
         display: block;
@@ -461,15 +461,15 @@ footer svg{
         top: 180px;
     }
     #a5 h2{
-        left: 92px;
+        left: 82px;
         top: 30px;
-        font-size: 25px;
+        font-size: 20px;
         z-index: 1;
     }
     #a5 p{
         color: hsl(212, 27%, 19%);
         left: 1px;
-        font-size: 16px;
+        font-size: 14px;
         top: 45px;
         z-index: 1;
     }
@@ -480,19 +480,20 @@ footer svg{
         width: 100%;
     }
     #a6 h2{
-        left: 105px;
-        font-size: 25px;
+        left: 100px;
+        font-size: 20px;
         z-index: 1;
         top: 590px;
     }
     #a6 p{
+        font-size: 14px;
         color: hsl(212, 27%, 19%);
         left: 0px;
         top: 600px;
         z-index: 1;
     }
     h3{
-        left: 50px;
+        left: 20px;
         font-size: 15px;
         top: -650px;
     }
@@ -505,46 +506,58 @@ footer svg{
         padding-bottom: 190px;
     }
     #d1 img{
-        left: 10px;
+        left: -5px;
+    }
+    #paragraph-from-div1{
+        font-size: 16px;
+        left: -120px;
     }
     #d1 a{
         font-size: 18px;
-        left: 10px;
+        left: -10px;
     }
     #second-paragraph-from-div1{
-        left: -16px;
+        left: -35px;
         font-size: 16px;
 
     }
     #d2 img{
         position: relative;
-        left: 25px;
+        left: 5px;
+    }
+    #paragraph-from-div2{
+        font-size: 16px;
+        left: -118px;
     }
     #d2 a{
         font-size: 18px;
-        left: 16px;
+        left: -10px;
     }
     #second-paragraph-from-div2{
-        left: -16px;
+        left: -40px;
         font-size: 16px;
     }
     #d3 img{
         position: relative;
-        left: 23px;
+        left: 10px;
+    }
+    #paragraph-from-div3{
+        font-size: 16px;
+        left: -117px;
     }
     #d3 a{
-        left: 25px;
+        left: 5px;
         font-size: 18px;
     }
     #second-paragraph-from-div3{
-        left: 10px;
+        left: -10px;
         top: 105px;
         font-size: 16px;
     }
     #s2 img{    
         height: 250px;
         flex-wrap: wrap;
-        width: 50%;
+        width: 40%;
     }
     #s2{
         top: -50px;
@@ -554,15 +567,15 @@ footer svg{
         top: -50px;
     }
     footer h1{
-        left: 30px;
+        left: -8px;
     }
     footer a{
         padding: 0;
-        padding-left: 45px;
-        left: -15px;
+        padding-left: 15px;
+        left: 15px;
     }
     footer svg{
-        left: 10px;
+        left: -20px;
     }
     body{
         overflow-x: hidden;
